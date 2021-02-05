@@ -1,0 +1,1196 @@
+{
+    "D.legal": {
+        "roomId": "!XhaXBccJrSJBMyLVwG:fosdem.org",
+        "backstageId": "!wggoUazpzSZLNyDBSd:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Legal and Policy Issues Devroom",
+        "aliases": [
+            "#legal:fosdem.org",
+            "#LEGAL:fosdem.org"
+        ],
+        "canonicalAlias": "#legal:fosdem.org"
+    },
+    "D.python": {
+        "roomId": "!xumFTnegwqwXyUCMZX:fosdem.org",
+        "backstageId": "!BIPaATuKVCUmozhAfv:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Python Devroom",
+        "aliases": [
+            "#python:fosdem.org",
+            "#PYTHON:fosdem.org"
+        ],
+        "canonicalAlias": "#python:fosdem.org"
+    },
+    "S.yottadb": {
+        "roomId": "!kCIZkPijSNbQaNEYzd:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "YottaDB stand",
+        "aliases": [
+            "#yottadb-stand:fosdem.org",
+            "#YOTTADB-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#yottadb-stand:fosdem.org"
+    },
+    "L.lightningtalks": {
+        "roomId": "!IgRACjtxHHPXRAMsin:fosdem.org",
+        "backstageId": "!hGbssWurlwnyzMEyFu:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Lightning Talks",
+        "aliases": [
+            "#L.lightningtalks:fosdem.org",
+            "#l.lightningtalks:fosdem.org",
+            "#L.LIGHTNINGTALKS:fosdem.org",
+            "#lightningtalks:fosdem.org",
+            "#LIGHTNINGTALKS:fosdem.org"
+        ],
+        "canonicalAlias": "#lightningtalks:fosdem.org"
+    },
+    "S.Libreoffice": {
+        "roomId": "!pjmRIsejkgbYTCYBKq:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "LibreOffice stand",
+        "aliases": [
+            "#Libreoffice-stand:fosdem.org",
+            "#libreoffice-stand:fosdem.org",
+            "#LIBREOFFICE-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#libreoffice-stand:fosdem.org"
+    },
+    "D.containers": {
+        "roomId": "!xbixnRjKzZHBPSUwkK:fosdem.org",
+        "backstageId": "!RJkaLkpvLUUgGzeTqm:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Containers Devroom",
+        "aliases": [
+            "#containers:fosdem.org",
+            "#CONTAINERS:fosdem.org"
+        ],
+        "canonicalAlias": "#containers:fosdem.org"
+    },
+    "S.openharmony": {
+        "roomId": "!kAnTQcMwMnbsErGhMQ:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "OpenHarmony Project stand",
+        "aliases": [
+            "#openharmony-stand:fosdem.org",
+            "#OPENHARMONY-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#openharmony-stand:fosdem.org"
+    },
+    "D.openchain": {
+        "roomId": "!CdxhXILEEJEIhimTrp:fosdem.org",
+        "backstageId": "!padRoEQvPkDertFQJk:fosdem.org",
+        "talkRoomIds": [],
+        "name": "OpenChain Devroom",
+        "aliases": [
+            "#openchain:fosdem.org",
+            "#OPENCHAIN:fosdem.org"
+        ],
+        "canonicalAlias": "#openchain:fosdem.org"
+    },
+    "D.openjdk": {
+        "roomId": "!vktSKwLuwOuwmKafzQ:fosdem.org",
+        "backstageId": "!EqVGPBgFurTDaNtetf:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Friends of OpenJDK Devroom",
+        "aliases": [
+            "#openjdk:fosdem.org",
+            "#OPENJDK:fosdem.org"
+        ],
+        "canonicalAlias": "#openjdk:fosdem.org"
+    },
+    "D.power": {
+        "roomId": "!eGHGOIZYgftxcEVLlm:fosdem.org",
+        "backstageId": "!gwMqGfxfWYJWdzPrHb:fosdem.org",
+        "talkRoomIds": [],
+        "name": "OpenPOWER Devroom",
+        "aliases": [
+            "#power:fosdem.org",
+            "#POWER:fosdem.org"
+        ],
+        "canonicalAlias": "#power:fosdem.org"
+    },
+    "D.emulator": {
+        "roomId": "!CleiyGnTCMCkCiBxIC:fosdem.org",
+        "backstageId": "!mwaBSFImzLkJYEZrfJ:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Emulator Development Devroom",
+        "aliases": [
+            "#emulator:fosdem.org",
+            "#EMULATOR:fosdem.org"
+        ],
+        "canonicalAlias": "#emulator:fosdem.org"
+    },
+    "D.docs": {
+        "roomId": "!hGddKqRUPcqaAPlzRy:fosdem.org",
+        "backstageId": "!BMvXIQOOiNhTNfgaUl:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Tool The Docs Devroom",
+        "aliases": [
+            "#docs:fosdem.org",
+            "#DOCS:fosdem.org"
+        ],
+        "canonicalAlias": "#docs:fosdem.org"
+    },
+    "S.xwiki": {
+        "roomId": "!hcHdoAtDniqtlgGGCi:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "XWiki &amp; CryptPad stand",
+        "aliases": [
+            "#xwiki-stand:fosdem.org",
+            "#XWIKI-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#xwiki-stand:fosdem.org"
+    },
+    "S.fsfe": {
+        "roomId": "!EZVdBWEegkVdJWnNHN:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Free Software Foundation Europe stand",
+        "aliases": [
+            "#fsfe-stand:fosdem.org",
+            "#FSFE-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#fsfe-stand:fosdem.org"
+    },
+    "S.box86": {
+        "roomId": "!buoHXThbWhnXsnKhsW:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Box86 stand",
+        "aliases": [
+            "#box86-stand:fosdem.org",
+            "#BOX86-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#box86-stand:fosdem.org"
+    },
+    "S.apache": {
+        "roomId": "!hzafszLzabvmPsCeFv:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "The Apache Software Foundation stand",
+        "aliases": [
+            "#apache-stand:fosdem.org",
+            "#APACHE-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#apache-stand:fosdem.org"
+    },
+    "D.safety": {
+        "roomId": "!DoENNCikGoLTveoWBF:fosdem.org",
+        "backstageId": "!IBNvXqNVxHMhZApYiH:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Safety and Open Source Devroom",
+        "aliases": [
+            "#safety:fosdem.org",
+            "#SAFETY:fosdem.org"
+        ],
+        "canonicalAlias": "#safety:fosdem.org"
+    },
+    "D.mysql": {
+        "roomId": "!tJKiEtkeieuvHeAcho:fosdem.org",
+        "backstageId": "!cgNFRcwbSmpliMrvzp:fosdem.org",
+        "talkRoomIds": [],
+        "name": "MySQL Devroom",
+        "aliases": [
+            "#mysql:fosdem.org",
+            "#MYSQL:fosdem.org"
+        ],
+        "canonicalAlias": "#mysql:fosdem.org"
+    },
+    "D.bsd": {
+        "roomId": "!JjLggzWTLZgoWlzyai:fosdem.org",
+        "backstageId": "!HKUdtACbHnlBfMKPKy:fosdem.org",
+        "talkRoomIds": [],
+        "name": "BSD Devroom",
+        "aliases": [
+            "#bsd:fosdem.org",
+            "#BSD:fosdem.org"
+        ],
+        "canonicalAlias": "#bsd:fosdem.org"
+    },
+    "S.refpersys": {
+        "roomId": "!zCiOupzUlMcDvORdri:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "RefPerSys stand",
+        "aliases": [
+            "#refpersys-stand:fosdem.org",
+            "#REFPERSYS-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#refpersys-stand:fosdem.org"
+    },
+    "M.performance": {
+        "roomId": null,
+        "backstageId": "!GDUfmlPSIYgEbTYzEa:fosdem.org",
+        "talkRoomIds": []
+    },
+    "D.infra": {
+        "roomId": "!RnCXbKbNjOKsdZtfJa:fosdem.org",
+        "backstageId": "!rSivLXsziVsNsZZWfl:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Infra Management Devroom",
+        "aliases": [
+            "#infra:fosdem.org",
+            "#INFRA:fosdem.org"
+        ],
+        "canonicalAlias": "#infra:fosdem.org"
+    },
+    "S.openwifi": {
+        "roomId": "!ccYTczveEjROWIJdVf:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "openwifi stand",
+        "aliases": [
+            "#openwifi-stand:fosdem.org",
+            "#OPENWIFI-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#openwifi-stand:fosdem.org"
+    },
+    "D.testing": {
+        "roomId": "!hJcmVRejZivYSdfqsx:fosdem.org",
+        "backstageId": "!jXtBwtqejofgijCeZd:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Testing and Automation Devroom",
+        "aliases": [
+            "#testing:fosdem.org",
+            "#TESTING:fosdem.org"
+        ],
+        "canonicalAlias": "#testing:fosdem.org"
+    },
+    "D.postgresql": {
+        "roomId": "!EphSOGkKahJEeqSQjY:fosdem.org",
+        "backstageId": "!QHatXhGrYIXNmAMYuD:fosdem.org",
+        "talkRoomIds": [],
+        "name": "PostgreSQL Devroom",
+        "aliases": [
+            "#postgresql:fosdem.org",
+            "#POSTGRESQL:fosdem.org"
+        ],
+        "canonicalAlias": "#postgresql:fosdem.org"
+    },
+    "S.reactos": {
+        "roomId": "!ONYJZEqHdrwUQikkyi:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "ReactOS stand",
+        "aliases": [
+            "#reactos-stand:fosdem.org",
+            "#REACTOS-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#reactos-stand:fosdem.org"
+    },
+    "S.appinventor": {
+        "roomId": "!YzkqcBLePLIOWOKRus:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "MIT App Inventor stand",
+        "aliases": [
+            "#appinventor-stand:fosdem.org",
+            "#APPINVENTOR-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#appinventor-stand:fosdem.org"
+    },
+    "D.geospatial": {
+        "roomId": "!ucueDnbESGvZJKTZiE:fosdem.org",
+        "backstageId": "!yxxLiUOSoKttkpazPB:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Geospatial Devroom",
+        "aliases": [
+            "#geospatial:fosdem.org",
+            "#GEOSPATIAL:fosdem.org"
+        ],
+        "canonicalAlias": "#geospatial:fosdem.org"
+    },
+    "D.radio": {
+        "roomId": "!PvLYlxejIvSHARCCHc:fosdem.org",
+        "backstageId": "!KzWOgQMRRpDTgyCvGb:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Free Software Radio Devroom",
+        "aliases": [
+            "#radio:fosdem.org",
+            "#RADIO:fosdem.org"
+        ],
+        "canonicalAlias": "#radio:fosdem.org"
+    },
+    "D.sds": {
+        "roomId": "!qoPaHoyVuAeWjUxLzp:fosdem.org",
+        "backstageId": "!qAIrIceIkHIojiztQc:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Software Defined Storage Devroom",
+        "aliases": [
+            "#sds:fosdem.org",
+            "#SDS:fosdem.org"
+        ],
+        "canonicalAlias": "#sds:fosdem.org"
+    },
+    "S.haiku": {
+        "roomId": "!CSyefpOZvReXrduHLh:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Haiku stand",
+        "aliases": [
+            "#haiku-stand:fosdem.org",
+            "#HAIKU-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#haiku-stand:fosdem.org"
+    },
+    "S.mautic": {
+        "roomId": "!LHRbzgTkcXjFJSxqYY:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Mautic stand",
+        "aliases": [
+            "#mautic-stand:fosdem.org",
+            "#MAUTIC-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#mautic-stand:fosdem.org"
+    },
+    "S.freebsd": {
+        "roomId": "!uQFSlbHYcNTORUADyz:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "FreeBSD Project stand",
+        "aliases": [
+            "#freebsd-stand:fosdem.org",
+            "#FREEBSD-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#freebsd-stand:fosdem.org"
+    },
+    "D.javascript": {
+        "roomId": "!AgjQsGqpRpAfSCupQO:fosdem.org",
+        "backstageId": "!ndKKiAsuYhSYtjJptX:fosdem.org",
+        "talkRoomIds": [],
+        "name": "JavaScript Devroom",
+        "aliases": [
+            "#javascript:fosdem.org",
+            "#JAVASCRIPT:fosdem.org"
+        ],
+        "canonicalAlias": "#javascript:fosdem.org"
+    },
+    "D.dependency": {
+        "roomId": "!XRJKwNEotbpUAwzjkf:fosdem.org",
+        "backstageId": "!SZWvbPqcDFpKvaXMXK:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Dependency Management Devroom",
+        "aliases": [
+            "#dependency:fosdem.org",
+            "#DEPENDENCY:fosdem.org"
+        ],
+        "canonicalAlias": "#dependency:fosdem.org"
+    },
+    "D.embedded": {
+        "roomId": "!EguZALdQbEMMTkXESS:fosdem.org",
+        "backstageId": "!QLoiHJijOYYIynURzq:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Embedded, Mobile and Automotive Devroom",
+        "aliases": [
+            "#embedded:fosdem.org",
+            "#EMBEDDED:fosdem.org"
+        ],
+        "canonicalAlias": "#embedded:fosdem.org"
+    },
+    "S.fedora": {
+        "roomId": "!fcwWxPztrmOWykyfPh:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "The Fedora Project stand",
+        "aliases": [
+            "#fedora-stand:fosdem.org",
+            "#FEDORA-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#fedora-stand:fosdem.org"
+    },
+    "S.opentap": {
+        "roomId": "!viGTgzWrvtIkPVLpRD:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "OpenTAP stand",
+        "aliases": [
+            "#opentap-stand:fosdem.org",
+            "#OPENTAP-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#opentap-stand:fosdem.org"
+    },
+    "S.tracim": {
+        "roomId": "!sGSMaJFkBlJmoAsNwl:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Tracim stand",
+        "aliases": [
+            "#tracim-stand:fosdem.org",
+            "#TRACIM-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#tracim-stand:fosdem.org"
+    },
+    "D.mozilla": {
+        "roomId": "!TJlCAPnnDWlUqfFdyK:fosdem.org",
+        "backstageId": "!omdlYJKclpYfAjFFkY:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Mozilla Devroom",
+        "aliases": [
+            "#mozilla:fosdem.org",
+            "#MOZILLA:fosdem.org"
+        ],
+        "canonicalAlias": "#mozilla:fosdem.org"
+    },
+    "D.graph": {
+        "roomId": "!cIDroQQgwzOquprMfY:fosdem.org",
+        "backstageId": "!OsGjqnezXGlVwkkLvD:fosdem.org",
+        "talkRoomIds": [],
+        "name": "#graph:fosdem.org",
+        "aliases": [
+            "#graph:fosdem.org",
+            "#GRAPH:fosdem.org"
+        ],
+        "canonicalAlias": "#graph:fosdem.org"
+    },
+    "K.fosdem": {
+        "roomId": "!MbwecIFQwfQSrIOhmz:fosdem.org",
+        "backstageId": "!jQtNDJeMRaztOKZOmY:fosdem.org",
+        "talkRoomIds": [],
+        "name": "FOSDEM Keynotes",
+        "aliases": [
+            "#fosdem-keynotes:fosdem.org",
+            "#FOSDEM-KEYNOTES:fosdem.org",
+            "#FOSDEM:fosdem.org"
+        ],
+        "canonicalAlias": "#fosdem-keynotes:fosdem.org"
+    },
+    "D.community": {
+        "roomId": "!cPaMFXaOjSdqyJTysf:fosdem.org",
+        "backstageId": "!wIddXuirHlWzsmFosi:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Community devroom Devroom",
+        "aliases": [
+            "#community-devroom:fosdem.org",
+            "#COMMUNITY-DEVROOM:fosdem.org"
+        ],
+        "canonicalAlias": "#community-devroom:fosdem.org"
+    },
+    "D.libreoffice": {
+        "roomId": "!ssqhFLUNHfqawefmVg:fosdem.org",
+        "backstageId": "!hugolhtlFWIEgQreTj:fosdem.org",
+        "talkRoomIds": [],
+        "name": "LibreOffice Devroom",
+        "aliases": [
+            "#libreoffice:fosdem.org",
+            "#LIBREOFFICE:fosdem.org"
+        ],
+        "canonicalAlias": "#libreoffice:fosdem.org"
+    },
+    "S.libresoc": {
+        "roomId": "!AYymMRqmvkdGWhKUTS:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "The LibreSOC Project stand",
+        "aliases": [
+            "#libresoc-stand:fosdem.org",
+            "#LIBRESOC-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#libresoc-stand:fosdem.org"
+    },
+    "S.kde": {
+        "roomId": "!GYmmbLdFalAVqKLUbX:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "KDE Community stand",
+        "aliases": [
+            "#kde-stand:fosdem.org",
+            "#KDE-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#kde-stand:fosdem.org"
+    },
+    "S.thola": {
+        "roomId": "!JOnPSsxhQWQEhpxjLm:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Thola and NESi stand",
+        "aliases": [
+            "#thola-stand:fosdem.org",
+            "#THOLA-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#thola-stand:fosdem.org"
+    },
+    "S.kiwi": {
+        "roomId": "!PFtycnDbAXPrOZKGOn:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Kiwi TCMS stand",
+        "aliases": [
+            "#kiwi-stand:fosdem.org",
+            "#KIWI-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#kiwi-stand:fosdem.org"
+    },
+    "S.ow2": {
+        "roomId": "!RZXkWlrATUwgIlaBNU:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "OW2 Open Source Community stand",
+        "aliases": [
+            "#ow2-stand:fosdem.org",
+            "#OW2-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#ow2-stand:fosdem.org"
+    },
+    "S.gnome": {
+        "roomId": "!YCsNpTUvOtgiCZGqXY:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "The GNOME Foundation stand",
+        "aliases": [
+            "#gnome-stand:fosdem.org",
+            "#GNOME-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#gnome-stand:fosdem.org"
+    },
+    "D.declarative.minimalistic": {
+        "roomId": "!AjjNorQDilLCaIrkHR:fosdem.org",
+        "backstageId": "!srOwxUumBFeEFqFJiU:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Declarative and Minimalistic Computing Devroom",
+        "aliases": [
+            "#declarative.minimalistic:fosdem.org",
+            "#DECLARATIVE.MINIMALISTIC:fosdem.org"
+        ],
+        "canonicalAlias": "#declarative.minimalistic:fosdem.org"
+    },
+    "S.checkmk": {
+        "roomId": "!fUcMUJjJlRZJVdMFbm:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Checkmk stand",
+        "aliases": [
+            "#checkmk-stand:fosdem.org",
+            "#CHECKMK-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#checkmk-stand:fosdem.org"
+    },
+    "S.nextcloud": {
+        "roomId": "!IuVWsqnJifQKCRGTEK:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Nextcloud Hub stand",
+        "aliases": [
+            "#nextcloud-stand:fosdem.org",
+            "#NEXTCLOUD-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#nextcloud-stand:fosdem.org"
+    },
+    "M.community": {
+        "roomId": "!nYzWHsJHQPAOiIlTmq:fosdem.org",
+        "backstageId": "!GoshpMXaTWXfPInXNw:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Community Devroom",
+        "aliases": [
+            "#community:fosdem.org",
+            "#COMMUNITY:fosdem.org"
+        ],
+        "canonicalAlias": "#community:fosdem.org"
+    },
+    "D.cicd": {
+        "roomId": "!eSLXszEGmLfcSXPeTd:fosdem.org",
+        "backstageId": "!hgbVpwqlyPzvvghdFD:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Continuous Integration and Continuous Deployment Devroom",
+        "aliases": [
+            "#cicd:fosdem.org",
+            "#CICD:fosdem.org"
+        ],
+        "canonicalAlias": "#cicd:fosdem.org"
+    },
+    "S.unikraft": {
+        "roomId": "!tVJYDeSAdlFBsBGQjk:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Unikraft stand",
+        "aliases": [
+            "#unikraft-stand:fosdem.org",
+            "#UNIKRAFT-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#unikraft-stand:fosdem.org"
+    },
+    "S.pharo": {
+        "roomId": "!DSIMXVyfttbVacgykW:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Pharo stand",
+        "aliases": [
+            "#pharo-stand:fosdem.org",
+            "#PHARO-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#pharo-stand:fosdem.org"
+    },
+    "D.network": {
+        "roomId": "!QrkSgRGPcuwRqNAWMx:fosdem.org",
+        "backstageId": "!XMSXQJAZcfFsRiVVFx:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Network monitoring, discovery and inventory Devroom",
+        "aliases": [
+            "#network-devroom:fosdem.org",
+            "#NETWORK-DEVROOM:fosdem.org",
+            "#NETWORK:fosdem.org"
+        ],
+        "canonicalAlias": "#network-devroom:fosdem.org"
+    },
+    "D.blockchain": {
+        "roomId": "!AUvLzDizWvOedgLWtR:fosdem.org",
+        "backstageId": "!QAsVYaFUeKgursOIAp:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Beyond Blockchain - Distributed Web Devroom",
+        "aliases": [
+            "#blockchain:fosdem.org",
+            "#BLOCKCHAIN:fosdem.org"
+        ],
+        "canonicalAlias": "#blockchain:fosdem.org"
+    },
+    "D.research": {
+        "roomId": "!kIJomxiUyICVnmrakZ:fosdem.org",
+        "backstageId": "!wDGPaMjSDzXaCrVSPy:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Open Research Tools and Technologies Devroom",
+        "aliases": [
+            "#research:fosdem.org",
+            "#RESEARCH:fosdem.org"
+        ],
+        "canonicalAlias": "#research:fosdem.org"
+    },
+    "S.haarcourt": {
+        "roomId": "!GYQPTlUSEYccSlFxrD:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "School of AI Port Haarcourt stand",
+        "aliases": [
+            "#haarcourt-stand:fosdem.org",
+            "#HAARCOURT-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#haarcourt-stand:fosdem.org"
+    },
+    "S.schulfrei": {
+        "roomId": "!EysLMvTjRuMVGjQOLn:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "schul-frei stand",
+        "aliases": [
+            "#schulfrei-stand:fosdem.org",
+            "#SCHULFREI-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#schulfrei-stand:fosdem.org"
+    },
+    "D.rtc": {
+        "roomId": "!ABpVKhveKdZKhUFLvc:fosdem.org",
+        "backstageId": "!UBxjzljhlUQEapZBsv:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Real Time Communications Devroom",
+        "aliases": [
+            "#rtc:fosdem.org",
+            "#RTC:fosdem.org"
+        ],
+        "canonicalAlias": "#rtc:fosdem.org"
+    },
+    "S.fossasia": {
+        "roomId": "!SCsDWEhoPhwwjtUGCY:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "FOSSASIA stand",
+        "aliases": [
+            "#fossasia-stand:fosdem.org",
+            "#FOSSASIA-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#fossasia-stand:fosdem.org"
+    },
+    "D.go": {
+        "roomId": "!sIjFaQGRpRlOMkchQr:fosdem.org",
+        "backstageId": "!UORQakpVITqtkiguPs:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Go Devroom",
+        "aliases": [
+            "#go:fosdem.org",
+            "#GO:fosdem.org"
+        ],
+        "canonicalAlias": "#go:fosdem.org"
+    },
+    "D.collab": {
+        "roomId": "!AwYEGYJbQUYmKQHuAS:fosdem.org",
+        "backstageId": "!LPnXtJrJFOyCIICSIv:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Collaborative Information and Content Management Applications Devroom",
+        "aliases": [
+            "#collab:fosdem.org",
+            "#COLLAB:fosdem.org"
+        ],
+        "canonicalAlias": "#collab:fosdem.org"
+    },
+    "D.firmware": {
+        "roomId": "!hRcOcJwbxTWOSalkUN:fosdem.org",
+        "backstageId": "!LdPkaAoibbovWmzQwt:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Open Source Firmware, BMC and Bootloader Devroom",
+        "aliases": [
+            "#firmware:fosdem.org",
+            "#FIRMWARE:fosdem.org"
+        ],
+        "canonicalAlias": "#firmware:fosdem.org"
+    },
+    "S.matrix": {
+        "roomId": "!QDBfUKeJnewcatWKhp:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Matrix stand",
+        "aliases": [
+            "#matrix-stand:fosdem.org",
+            "#MATRIX-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#matrix-stand:fosdem.org"
+    },
+    "D.distributions": {
+        "roomId": "!CePWgeAaFCjcBrtUNz:fosdem.org",
+        "backstageId": "!MPzvfHBlRJDfkzQfWa:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Distributions Devroom",
+        "aliases": [
+            "#distributions:fosdem.org",
+            "#DISTRIBUTIONS:fosdem.org"
+        ],
+        "canonicalAlias": "#distributions:fosdem.org"
+    },
+    "D.composition": {
+        "roomId": "!kxqaejWgOyrDHAguaQ:fosdem.org",
+        "backstageId": "!sdsVwnkoBgQBfubMpI:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Software Composition Devroom",
+        "aliases": [
+            "#composition:fosdem.org",
+            "#COMPOSITION:fosdem.org"
+        ],
+        "canonicalAlias": "#composition:fosdem.org"
+    },
+    "S.onlyoffice": {
+        "roomId": "!rzEjTVXccGGakGaLpw:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "ONLYOFFICE stand",
+        "aliases": [
+            "#onlyoffice-stand:fosdem.org",
+            "#ONLYOFFICE-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#onlyoffice-stand:fosdem.org"
+    },
+    "S.openmandriva": {
+        "roomId": "!LIoxOuXfGTjiZNrLWG:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "OpenMandriva stand",
+        "aliases": [
+            "#openmandriva-stand:fosdem.org",
+            "#OPENMANDRIVA-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#openmandriva-stand:fosdem.org"
+    },
+    "S.postgresql": {
+        "roomId": "!JGscluVuNJWeEyrEKh:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "PostgreSQL stand",
+        "aliases": [
+            "#postgresql-stand:fosdem.org",
+            "#POSTGRESQL-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#postgresql-stand:fosdem.org"
+    },
+    "D.hardware.trusted": {
+        "roomId": "!TMvRmFrWCHCFIqUIsI:fosdem.org",
+        "backstageId": "!viOldHlPIWkCyvxULv:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Hardware-Aided Trusted Computing Devroom",
+        "aliases": [
+            "#hardware.trusted:fosdem.org",
+            "#HARDWARE.TRUSTED:fosdem.org"
+        ],
+        "canonicalAlias": "#hardware.trusted:fosdem.org"
+    },
+    "D.sdn": {
+        "roomId": "!vskcoGucXkWjpZpYWH:fosdem.org",
+        "backstageId": "!AlLeFBIUZWyzLperac:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Software Defined Networking Devroom",
+        "aliases": [
+            "#sdn:fosdem.org",
+            "#SDN:fosdem.org"
+        ],
+        "canonicalAlias": "#sdn:fosdem.org"
+    },
+    "D.virtualization": {
+        "roomId": "!fHflrUbucglfuKcWEq:fosdem.org",
+        "backstageId": "!DiPzVFWQlbZJjmaLNc:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Virtualization and IaaS Devroom",
+        "aliases": [
+            "#virtualization:fosdem.org",
+            "#VIRTUALIZATION:fosdem.org"
+        ],
+        "canonicalAlias": "#virtualization:fosdem.org"
+    },
+    "S.openuk": {
+        "roomId": "!QJhegWxGdKqVGOnrci:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "OpenUK stand",
+        "aliases": [
+            "#openuk-stand:fosdem.org",
+            "#OPENUK-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#openuk-stand:fosdem.org"
+    },
+    "S.coderdojo": {
+        "roomId": "!kTtqxzftfcZWAStsoQ:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Coderdojo Belgium stand",
+        "aliases": [
+            "#coderdojo-stand:fosdem.org",
+            "#CODERDOJO-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#coderdojo-stand:fosdem.org"
+    },
+    "D.perl": {
+        "roomId": "!qJdIJmNMWpbzCcLcjY:fosdem.org",
+        "backstageId": "!OByBryeequBqrivPif:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Perl and Raku Programming Devroom",
+        "aliases": [
+            "#perl:fosdem.org",
+            "#PERL:fosdem.org"
+        ],
+        "canonicalAlias": "#perl:fosdem.org"
+    },
+    "M.misc": {
+        "roomId": "!wCfJYfbBbPvIkIsPOe:fosdem.org",
+        "backstageId": "!bEGrtnMQagDdryyBRK:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Miscellaneous Devroom",
+        "aliases": [
+            "#misc:fosdem.org",
+            "#MISC:fosdem.org"
+        ],
+        "canonicalAlias": "#misc:fosdem.org"
+    },
+    "D.hpc": {
+        "roomId": "!ziLfLnqLtOoThsHdvD:fosdem.org",
+        "backstageId": "!CLmmqMLxRsGmmaqKXe:fosdem.org",
+        "talkRoomIds": [],
+        "name": "HPC, Big Data and Data Science Devroom",
+        "aliases": [
+            "#hpc:fosdem.org",
+            "#HPC:fosdem.org"
+        ],
+        "canonicalAlias": "#hpc:fosdem.org"
+    },
+    "D.retro": {
+        "roomId": "!JNkhpIbwsvItomdOki:fosdem.org",
+        "backstageId": "!OBKLfZFZLVPRrbEpyp:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Retrocomputing Devroom",
+        "aliases": [
+            "#retro:fosdem.org",
+            "#RETRO:fosdem.org"
+        ],
+        "canonicalAlias": "#retro:fosdem.org"
+    },
+    "S.debian": {
+        "roomId": "!wVHWCjTCDgnFHoslyA:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Debian stand",
+        "aliases": [
+            "#debian-stand:fosdem.org",
+            "#DEBIAN-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#debian-stand:fosdem.org"
+    },
+    "D.mariadb": {
+        "roomId": "!umOdcKdwPEGkmBgCVx:fosdem.org",
+        "backstageId": "!GukmyFSQrrZQAgKsun:fosdem.org",
+        "talkRoomIds": [],
+        "name": "MariaDB Devroom",
+        "aliases": [
+            "#mariadb:fosdem.org",
+            "#MARIADB:fosdem.org"
+        ],
+        "canonicalAlias": "#mariadb:fosdem.org"
+    },
+    "D.web.performance": {
+        "roomId": "!CfLnOzUirXaMYlSsBF:fosdem.org",
+        "backstageId": "!HSkpCczEmzpNJLvFKI:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Web Performance Devroom",
+        "aliases": [
+            "#web.performance:fosdem.org",
+            "#WEB.PERFORMANCE:fosdem.org"
+        ],
+        "canonicalAlias": "#web.performance:fosdem.org"
+    },
+    "S.pulp": {
+        "roomId": "!qrfEPtZOgSZThufwsn:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Pulp stand",
+        "aliases": [
+            "#pulp-stand:fosdem.org",
+            "#PULP-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#pulp-stand:fosdem.org"
+    },
+    "S.foreman": {
+        "roomId": "!NrkoLbQGWeyogYGQfq:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Foreman stand",
+        "aliases": [
+            "#foreman-stand:fosdem.org",
+            "#FOREMAN-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#foreman-stand:fosdem.org"
+    },
+    "M.virtual.events": {
+        "roomId": null,
+        "backstageId": "!GrisLmirFFrZSDGhuc:fosdem.org",
+        "talkRoomIds": []
+    },
+    "S.mariadb": {
+        "roomId": "!znrhgmrGfWmHLbCaqX:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "MariaDB Foundation stand",
+        "aliases": [
+            "#mariadb-stand:fosdem.org",
+            "#MARIADB-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#mariadb-stand:fosdem.org"
+    },
+    "D.cad": {
+        "roomId": "!wrJLamwNmFBiITlumj:fosdem.org",
+        "backstageId": "!keeulshGRqDKnuXbDU:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Open Source Computer Aided Modeling and Design Devroom",
+        "aliases": [
+            "#cad:fosdem.org",
+            "#CAD:fosdem.org"
+        ],
+        "canonicalAlias": "#cad:fosdem.org"
+    },
+    "B.bofs": {
+        "roomId": "!DjZUuKOJvkECxLRcPt:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "#bofs:fosdem.org",
+        "aliases": [
+            "#bofs:fosdem.org",
+            "#BOFS:fosdem.org",
+            "#BOFs:fosdem.org"
+        ],
+        "canonicalAlias": "#bofs:fosdem.org"
+    },
+    "D.kotlin": {
+        "roomId": "!FkvTHZajkXwznXoyBu:fosdem.org",
+        "backstageId": "!oggFaXYFtyOTzVSWnA:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Kotlin Devroom",
+        "aliases": [
+            "#kotlin:fosdem.org",
+            "#KOTLIN:fosdem.org"
+        ],
+        "canonicalAlias": "#kotlin:fosdem.org"
+    },
+    "S.civicrm": {
+        "roomId": "!lBPVCniJZrSmpZFCDG:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "CiviCRM stand",
+        "aliases": [
+            "#civicrm-stand:fosdem.org",
+            "#CIVICRM-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#civicrm-stand:fosdem.org"
+    },
+    "D.zig": {
+        "roomId": "!JhmlhblQLCZpqzYlRc:fosdem.org",
+        "backstageId": "!owXDRDRVzDPWDaBZLF:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Zig Programming Language Devroom",
+        "aliases": [
+            "#zig:fosdem.org",
+            "#ZIG:fosdem.org"
+        ],
+        "canonicalAlias": "#zig:fosdem.org"
+    },
+    "S.gsoc": {
+        "roomId": "!YQnnIdISViDipQKSPc:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Google Summer of Code stand",
+        "aliases": [
+            "#gsoc-stand:fosdem.org",
+            "#GSOC-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#gsoc-stand:fosdem.org"
+    },
+    "D.design": {
+        "roomId": "!eSRIibZYUoFIAdwFwo:fosdem.org",
+        "backstageId": "!MuAgrURQyqwXAoiwzA:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Open Source Design Devroom",
+        "aliases": [
+            "#design:fosdem.org",
+            "#DESIGN:fosdem.org"
+        ],
+        "canonicalAlias": "#design:fosdem.org"
+    },
+    "S.jenkins": {
+        "roomId": "!vkCxbpiSayzGWUWTeu:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Jenkins stand",
+        "aliases": [
+            "#jenkins-stand:fosdem.org",
+            "#JENKINS-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#jenkins-stand:fosdem.org"
+    },
+    "D.microkernel": {
+        "roomId": "!kUSHcnvxsHvGchUWDH:fosdem.org",
+        "backstageId": "!xAAVkDsxHWpVBajGwn:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Microkernel Devroom",
+        "aliases": [
+            "#microkernel:fosdem.org",
+            "#MICROKERNEL:fosdem.org"
+        ],
+        "canonicalAlias": "#microkernel:fosdem.org"
+    },
+    "S.openembedded": {
+        "roomId": "!ZwETVdVqElhQrMCNNF:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "OpenEmbedded stand",
+        "aliases": [
+            "#openembedded-stand:fosdem.org",
+            "#OPENEMBEDDED-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#openembedded-stand:fosdem.org"
+    },
+    "S.kopano": {
+        "roomId": "!HtuvNdGjQwZhHCqbsm:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Kopano stand",
+        "aliases": [
+            "#kopano-stand:fosdem.org",
+            "#KOPANO-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#kopano-stand:fosdem.org"
+    },
+    "D.apache.openoffice": {
+        "roomId": "!vbPHKvVNdubyPYlEqb:fosdem.org",
+        "backstageId": "!kattNRlhZOmLwePkoe:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Apache OpenOffice Devroom",
+        "aliases": [
+            "#apache.openoffice:fosdem.org",
+            "#APACHE.OPENOFFICE:fosdem.org"
+        ],
+        "canonicalAlias": "#apache.openoffice:fosdem.org"
+    },
+    "D.monitoring": {
+        "roomId": "!eqQkUWmNKzksSuhcsL:fosdem.org",
+        "backstageId": "!yQISFHDPjdGInwGJGz:fosdem.org",
+        "talkRoomIds": [],
+        "name": "Monitoring and Observability Devroom",
+        "aliases": [
+            "#monitoring:fosdem.org",
+            "#MONITORING:fosdem.org"
+        ],
+        "canonicalAlias": "#monitoring:fosdem.org"
+    },
+    "S.gitlab": {
+        "roomId": "!ROYHlnzmGFGFVMEaNz:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "GitLab stand",
+        "aliases": [
+            "#gitlab-stand:fosdem.org",
+            "#GITLAB-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#gitlab-stand:fosdem.org"
+    },
+    "B.bofs.test": {
+        "roomId": "!iWUVwoQQGhJlLVBzln:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "BOFs Testing",
+        "aliases": [
+            "#bofs.test:fosdem.org",
+            "#BOFS.TEST:fosdem.org"
+        ],
+        "canonicalAlias": "#bofs.test:fosdem.org"
+    },
+    "S.sesame": {
+        "roomId": "!wZsnVmanUeSjgnPPtH:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "Sesame Discovery stand",
+        "aliases": [
+            "#sesame-stand:fosdem.org",
+            "#SESAME-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#sesame-stand:fosdem.org"
+    },
+    "I.infodesk": {
+        "roomId": "!qqjkYSvjJvWreBlNfR:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "FOSDEM INFODESK",
+        "aliases": [
+            "#infodesk:fosdem.org",
+            "#INFODESK:fosdem.org"
+        ],
+        "canonicalAlias": "#infodesk:fosdem.org"
+    },
+    "S.xcpng": {
+        "roomId": "!tpvDfRTkWfrwGfQjhu:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "XCP-ng stand",
+        "aliases": [
+            "#xcpng-stand:fosdem.org",
+            "#XCPNG-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#xcpng-stand:fosdem.org"
+    },
+    "S.ntop": {
+        "roomId": "!kvFYUVIkxjHcTaIJsD:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "ntop stand",
+        "aliases": [
+            "#ntop-stand:fosdem.org",
+            "#NTOP-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#ntop-stand:fosdem.org"
+    },
+    "S.eclipse": {
+        "roomId": "!IbPUJkXtCpMgGhlOEl:fosdem.org",
+        "backstageId": null,
+        "talkRoomIds": [],
+        "name": "The Eclipse Foundation stand",
+        "aliases": [
+            "#eclipse-stand:fosdem.org",
+            "#ECLIPSE-STAND:fosdem.org"
+        ],
+        "canonicalAlias": "#eclipse-stand:fosdem.org"
+    }
+}
